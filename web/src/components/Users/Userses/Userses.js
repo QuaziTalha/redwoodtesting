@@ -76,7 +76,7 @@ const UsersesList = ({ userses }) => {
 
   return (
     <>       {userses.map((users) => (
-      JSON.stringify (users)
+      JSON.stringify(users)
     ))}</>
 
    /*  <div className="rw-segment rw-table-wrapper-responsive">
