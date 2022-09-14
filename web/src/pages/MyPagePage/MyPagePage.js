@@ -6,8 +6,7 @@ const MyPagePage = () => {
     <>
       <MetaTags title="MyPage" description="MyPage page" />
 
-      <h1>Hello There</h1>
-    <p>ont mind me just testing</p>
+sdjkwebfkjwe
     </>
   )
 }
